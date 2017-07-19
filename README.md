@@ -1,2 +1,2 @@
 # Keylogger-Decryption
-Decrypts the messages gathered by the keylogger
+Decrypts the messages gathered by the keylogger.
