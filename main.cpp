@@ -1,3 +1,12 @@
+/*************************************
+This program can decrypt the encrypted
+text from the Keylogger.
+
+Original creator:   Ermin Kreponic
+                (Creator69 on GitHub)
+Created by:         Victor Nguyen
+Date:               07/13/17
+*************************************/
 #include <iostream>
 #include <fstream>
 #include <string>
